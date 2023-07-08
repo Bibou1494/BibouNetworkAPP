@@ -1,2 +1,2 @@
 # BibouNetworkAPP
-L'application de BibouNetwork grâce a Python (É) et oui je sais faire
+Bienvenue sur la version gui de l'ancienne version de BibouNetwork.
