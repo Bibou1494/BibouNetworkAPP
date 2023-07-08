@@ -1,0 +1,50 @@
+h1
+{
+	text-align:center;
+	background-color:darkorange;
+}
+h2
+{   
+	font-family:Comic sans MS;
+	font-style:italic ;
+	color:green;
+}
+
+body 
+{
+	font-family: Comic sans MS;
+    background-image: url("Windows 12.1 Dark.png");
+	color: #FFFFFF;
+    width: 50em;
+	padding: 5em;
+	margin: auto; 
+	text-align: justify;
+}
+#para1
+{
+	color :blue;
+	font-weight : bold;
+}
+
+#para2
+{
+	color :purple;
+	text-decoration : underline;
+	border:2px green;
+
+}
+#image {
+	text-align: center;
+   border: 3px dotted #cc0000;
+   border-radius : 5px;
+   margin-bottom : 20px;
+   background-color : Khaki
+}
+
+footer{
+	background-color: goldenrod;
+	padding: 1em;
+	margin-top: 5em;
+	color:red;
+	text-decoration:bold;
+}
